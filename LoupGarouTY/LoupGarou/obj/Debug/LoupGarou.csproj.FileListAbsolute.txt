@@ -1,0 +1,39 @@
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou\LoupGarou\bin\Debug\LoupGarou.exe.config
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou\LoupGarou\bin\Debug\LoupGarou.exe
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou\LoupGarou\bin\Debug\LoupGarou.pdb
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou\LoupGarou\obj\Debug\LoupGarou.csprojAssemblyReference.cache
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou\LoupGarou\obj\Debug\LoupGarou.Plateforme.resources
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou\LoupGarou\obj\Debug\LoupGarou.Properties.Resources.resources
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou\LoupGarou\obj\Debug\LoupGarou.csproj.GenerateResource.cache
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou\LoupGarou\obj\Debug\LoupGarou.csproj.CoreCompileInputs.cache
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou\LoupGarou\obj\Debug\LoupGarou.exe
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou\LoupGarou\obj\Debug\LoupGarou.pdb
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\bin\Debug\LoupGarou.exe.config
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\bin\Debug\LoupGarou.exe
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\bin\Debug\LoupGarou.pdb
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.csprojAssemblyReference.cache
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.Plateforme.resources
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.Properties.Resources.resources
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.csproj.GenerateResource.cache
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.csproj.CoreCompileInputs.cache
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.exe
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.pdb
+Z:\PERSO-SIO1\SEMESTRE1\BLOC2\C#\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\bin\Debug\LoupGarou.xml
+C:\Users\simon\OneDrive\Documents\SIO\BLOC 2\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.csprojAssemblyReference.cache
+C:\Users\simon\OneDrive\Documents\SIO\BLOC 2\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.Plateforme.resources
+C:\Users\simon\OneDrive\Documents\SIO\BLOC 2\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.Properties.Resources.resources
+C:\Users\simon\OneDrive\Documents\SIO\BLOC 2\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.csproj.GenerateResource.cache
+C:\Users\simon\OneDrive\Documents\SIO\BLOC 2\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Documents\SIO\BLOC 2\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.exe
+C:\Users\simon\OneDrive\Documents\SIO\BLOC 2\Loup Garou agrou agrou\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.pdb
+D:\Système\Bureau\LoupGarou - Client\LoupGarou\bin\Debug\LoupGarou.xml
+D:\Système\Bureau\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.csprojAssemblyReference.cache
+D:\Système\Bureau\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.Plateforme.resources
+D:\Système\Bureau\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.Properties.Resources.resources
+D:\Système\Bureau\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.csproj.GenerateResource.cache
+D:\Système\Bureau\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.csproj.CoreCompileInputs.cache
+D:\Système\Bureau\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.exe
+D:\Système\Bureau\LoupGarou - Client\LoupGarou\obj\Debug\LoupGarou.pdb
+D:\Système\Bureau\LoupGarou - Client\LoupGarou\bin\Debug\LoupGarou.exe.config
+D:\Système\Bureau\LoupGarou - Client\LoupGarou\bin\Debug\LoupGarou.exe
+D:\Système\Bureau\LoupGarou - Client\LoupGarou\bin\Debug\LoupGarou.pdb
