@@ -13,7 +13,7 @@ namespace LoupGarou
 
         public Role()
         {
-
+// A compléter
         }
     }
 }
