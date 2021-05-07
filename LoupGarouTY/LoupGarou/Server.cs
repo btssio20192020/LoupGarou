@@ -33,6 +33,19 @@ namespace LoupGarou
             leSocket.Bind(iep);
             leSocket.Listen(1);
         }
+        
+        //Constructeur pour tester en mode console
+        public Server(string lAdresseS, int lePortS, int laCapacite = 4)
+        {
+            this.lePortS = lePortS;
+            this.laCapacite = laCapacite;
+            leSocket = new Socket(AddressFamily.InterNetwork,
+            SocketType.Stream,
+            ProtocolType.Tcp);
+            IPEndPoint iep = new IPEndPoint(IPAddress.Parse("0.0.0.0"), this.lePortS);
+            leSocket.Bind(iep);
+            leSocket.Listen(1);
+        }
 
         public void Run()
         {
@@ -53,6 +66,7 @@ namespace LoupGarou
             leMessageObtenu = new StreamReader(_Network);
             leMessageAEnvoyer = new StreamWriter(_Network);
             string ipport = laCom.leSocket.RemoteEndPoint.ToString();
+            //Ajouter un client ici
             while (true)
             {
                 setText("Client n. :" + nbreClient + " avec l'adresse " + ipport);
